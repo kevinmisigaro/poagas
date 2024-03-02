@@ -52,6 +52,15 @@ button:focus,
   border-color: #0e6354;
 }
 
+.mainBrandBg {
+  background-image: url("../other/brandimage.png");
+}
+
+.contactFormImg {
+  background-image: url("../other/PG8.webp");
+  background-size: cover;
+}
+
 select {
   -webkit-writing-mode: horizontal-tb !important;
   text-rendering: auto;

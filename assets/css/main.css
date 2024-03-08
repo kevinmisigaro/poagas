@@ -144,6 +144,11 @@ h2 {
   font-size: 40px;
 }
 
+.hero-text{
+  font-size: "80px";
+  line-height: 1
+}
+
 h3 {
   font-size: 30px;
 }
@@ -898,6 +903,12 @@ ol {
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   .container {
     width: 450px;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .hero-text {
+    font-size: "40px";
   }
 }
 
